@@ -1,0 +1,526 @@
+body{
+    margin: 0px;
+    text-align: center;    
+}
+
+
+h1{
+    margin-top: 0px;
+    color: #66BFBF;
+    font-size: 50px;
+}
+
+
+
+.top_container{
+    background-color: #EAF6F6;
+    position: relative; 
+    padding-top: 100px;
+    padding-bottom: 510px; 
+}
+.testimonial-image {
+    max-width: 30%;
+    margin: 20px;
+    height: 30%;
+}
+
+.sun{
+    max-width: 110px;
+    position: absolute;
+    left: 10%;
+    top: 2%;
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 27%;
+    top: 30%;
+    max-width: 15%;
+    
+
+}
+.top-cloud{
+    position: absolute;
+    right: 25%;
+    top: 4%;
+    max-width: 9%;
+    
+}
+
+.mill{
+    max-width: 18.75rem;
+    position: absolute;
+    right: 58.5%;
+    top: 64.6%;
+    z-index: 1;
+    margin: 0px;
+    border-bottom: 0px;
+}
+.train{
+    max-width: 6.25rem;
+    position: absolute;
+    right: 32%;
+    top: 90%;
+    z-index: 1;
+    margin: 0px;
+    border-bottom: 0px;
+}
+.wind{
+    max-width: 4vw;
+    position: absolute;
+    right: 60%;
+    top: 57%;
+    z-index: 0;
+
+}
+.mountain{
+    position: absolute;
+    margin: 0px;
+    border-bottom: 0px;
+    z-index: 2;
+    left: 37%;
+    
+}
+.pro_pic{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.intro{
+    font-family: 'Allison', cursive;
+    font-size: 70px;
+    color: rgb(0, 83, 62);
+    word-spacing: 25px;
+    padding: 8px;
+    margin: 0px;
+       
+}
+.intro_2{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    color: rgb(0, 83, 62);
+    margin: 0px;
+    padding-bottom: 90px;
+    border: 0px;
+}
+hr{
+    border-style: dotted none none none;
+    border-color: #d8dddd;
+    border-width: 8px;
+    height: 0px;
+    width: 5%;
+    margin-bottom: 60px;
+    margin-top: 80px;
+        
+}
+
+h3{
+    font-size: 30px;
+    margin: 0px;
+    border: 0;
+    color: #11999E;
+}
+
+
+.profile{
+    background-color: #fbf9f9;
+    position: relative; 
+    padding-top: 5%;
+
+}
+
+.middle-container{
+    background-color: #fbf9f9;
+}
+
+.outro{
+    font-size: 20px;
+}
+
+.skill-row{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    text-align: left;
+    border: 2px;
+    
+}
+
+.baloon{
+    position: absolute;
+    width: 160px;
+    right: 36%;
+    top: 30%;
+    left: 60%;
+}
+
+p{
+    font-family: 'Kaisei HarunoUmi', serif;
+    color: #40514E;
+    font-size: 18px;
+    margin-top: 20px;
+    
+}
+
+.contact{
+    width: 200px;
+    border-radius: 50%;
+}
+.contact-me{
+    background-color: #fbf9f9;
+}
+h2{
+    color:rgba(0, 0, 0, 0.513);
+}
+.hello{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    color: #66BFBF;
+    padding-top: 1%;
+}
+.big{
+    font-size: 90px;
+}
+.centre{
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.skills_3{
+    width: 40%;
+    float: left;
+    margin-left: 55%;
+    margin-bottom: 12%;
+}
+.touch{
+    font-size: 54px;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 32px;
+    position: relative;
+    margin-left: 42%;
+    margin-right: 42%;
+
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding-top: 70px;
+    padding-bottom: 0px;
+}
+a{
+    color: #11999E;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-family: 'Lato', sans-serif;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+table,tr,td{
+    background-color: transparent;
+    margin: 0%;
+    border-top: 5px solid #dee2e6;
+    border-width: 0px;
+
+}
+
+.border-removal{
+    border-top: 0px;
+}
+
+
+a:hover{
+    color: #EAF6F6;
+}
+.end{
+    color: #EAF6F6;
+}
+.left-alligned{
+    text-align: left;
+}
+
+.static{
+    position: fixed;
+}
+
+.coding{
+    width: 50%;
+    float: left;
+    margin-left: 45%;
+    margin-bottom: 8%;
+
+}
+
+.btn{
+    margin: 4%;
+    margin-bottom: 1%;
+}
+
+.edu{
+    padding-top: 4%;
+    padding-bottom: 6%;
+    text-align: center;
+}
+
+.card{
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.edu_hed{
+    padding-bottom: 3%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.size1{
+    max-width: 300px;
+}
+
+
+.move{
+    margin-left: 0px;
+}
+.wrap {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.button{
+    width: 15vw;
+    height: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    margin-top: 2%;
+    
+}
+  
+.button:hover{
+    background-color: #2EE59D;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+}
+
+
+
+.art{
+    background-color: #c8c8c8;  
+    border: 1px solid #ddd;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    position: relative;
+    margin-top: 1%;
+	
+}
+.font{
+    font-family: 'Festive', cursive;
+    color: black;
+}
+
+.artist{
+    position: absolute;
+    width: 15%;
+    left: 80%;
+    bottom: 100%;
+}
+
+.testimonial-image{
+    width: 100%;
+}
+.button1{
+    width: 17vw;
+    height: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    margin:3%
+}
+
+.button3:hover{
+    background-color: #c7d8d7;
+    box-shadow: 0px 15px 20px rgba(206, 228, 217, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+}
+.github,.github1{
+    position: relative;
+    margin-left: 6em;
+    margin-top: 1em;
+    text-align: left;
+}
+
+.small{
+    width: 3vw;
+}
+.skill_op{
+    position: absolute;
+    max-width: 9vw;
+    margin-bottom: 5%;
+    left: 45%;
+    
+}
+
+.button2{
+    width: 13vw;
+    height: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    background-color: #fff;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    margin-top: 10%;
+    margin-bottom: 20%;
+
+}
+.nav-items{
+    margin-left: 2em;
+
+}
+
+.skill-set1{
+    display: inline-flex;
+    margin-top: 200px;
+    justify-content: center;
+    margin-left: 2em;
+    margin-right: 5em;
+}
+.skill-set2{
+    display: inline-flex;
+    margin-top: 60px;
+    justify-content: center;
+    margin-left: 2em;
+    margin-right: 5em;
+}
+.skill-set3{
+    display: inline-flex;
+    margin-top: 60px;
+    justify-content: center;
+    margin-left: 10em;
+    margin-right: 5em;
+}
+.size2{
+    width: 150px;
+    margin-right: 5em;
+    border-radius: 50%;
+}
+
+.text{
+    text-align: justify;
+    margin-right: 27%;
+    margin-top: 6%;
+}
+.button2:hover{
+    background-color: #000000;
+    box-shadow: 0px 15px 20px rgba(180, 185, 183, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+}
+.p{
+    text-align: justify;
+}
+
+.CV{
+    margin-top: 50px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.button3{
+    width: 13vw;
+    height: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    background-color: #fff;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+.pro_pic1{
+    max-width: 5vw;
+    position: absolute;
+    right: 3%;
+    top: 2%;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+.light-mode {
+    background-color: white;
+    color: black;
+}
+
+.nightmode{
+    position: absolute;
+    width: 2.5vw;
+    float: right;
+    right: 1%;
+    transform: scaleX(-1);
+    top: 1%;
+}
+
+.skill_set{
+    background-color: #d3e9ea;
+}
+.center{
+    margin: auto;
+    width: 50%;
+    
+}
+.diff{
+    padding-bottom: 8%;
+
+}
+td{
+    padding-left: 10%;
+}
+.down{
+    padding-bottom: 4%;
+}
