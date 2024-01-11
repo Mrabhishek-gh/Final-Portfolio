@@ -172,7 +172,7 @@ p{
     background-color: #fbf9f9;
 }
 h2{
-    color:rgba(0, 0, 0, 0.513);
+    color:rgba(99, 98, 98, 0.513);
 }
 .hello{
     font-family: 'Montserrat', sans-serif;
@@ -380,8 +380,8 @@ a:hover{
 .skill_op{
     position: absolute;
     max-width: 9vw;
-    margin-bottom: 5%;
     left: 45%;
+    right: 45%;
     
 }
 
@@ -410,26 +410,32 @@ a:hover{
 
 }
 
+.head{
+    position: absolute;
+    left: 20em;
+
+}
+
 .skill-set1{
     display: inline-flex;
-    margin-top: 200px;
+    margin-top: 15em;
     justify-content: center;
     margin-left: 2em;
-    margin-right: 5em;
+    margin-right: 7em;
 }
 .skill-set2{
     display: inline-flex;
     margin-top: 60px;
     justify-content: center;
-    margin-left: 2em;
-    margin-right: 5em;
+    margin-left: 2.2em;
+
 }
 .skill-set3{
     display: inline-flex;
     margin-top: 60px;
     justify-content: center;
-    margin-left: 10em;
-    margin-right: 5em;
+    margin-left: 2.2em;
+
 }
 .size2{
     width: 150px;
