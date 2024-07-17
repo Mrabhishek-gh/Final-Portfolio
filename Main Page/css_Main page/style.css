@@ -11,8 +11,12 @@ h1{
 }
 
 .out{
-    margin-left: 80px;
-    margin-right: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    padding-right: 10em;
+    padding-left: 10em;
+    line-height: 35px;
 }
 
 .top_container{
@@ -202,8 +206,10 @@ h2{
     font-family: 'Dancing Script', cursive;
     margin-bottom: 32px;
     position: relative;
-    margin-left: 42%;
-    margin-right: 42%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1.2em;
+
 
 }
 
@@ -264,6 +270,10 @@ a:hover{
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
+}
+.card-text{
+    font-family: 'Kaisei HarunoUmi', serif;
+    color: #40514E;
 }
 .edu_hed{
     padding-bottom: 3%;
@@ -450,13 +460,16 @@ a:hover{
     color: #fff;
     transform: translateY(-7px);
 }
-.p{
+p{
     text-align: justify;
+    font-family: 'Kaisei HarunoUmi', serif;
+    color: #40514E;
 }
 
 .CV{
     margin-top: 50px;
     font-family: 'Bebas Neue', sans-serif;
+    padding-bottom: 1em;
 }
 
 .button3{
@@ -477,7 +490,7 @@ a:hover{
     cursor: pointer;
     outline: none;
     margin-top: 1%;
-    margin-bottom: 2%;
+    margin-bottom: 15%;
 }
 
 html {
