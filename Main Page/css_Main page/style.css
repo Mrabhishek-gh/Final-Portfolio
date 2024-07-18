@@ -166,10 +166,16 @@ h3{
 }
 
 p{
-    font-family: 'Kaisei HarunoUmi', serif;
     color: #40514E;
     font-size: 18px;
     margin-top: 20px;
+    text-align: center;
+    color: #40514E;
+
+
+
+
+
     
 }
 
@@ -276,6 +282,7 @@ a:hover{
 .card-text{
     font-family: 'Kaisei HarunoUmi', serif;
     color: #40514E;
+    text-align: justify;
 }
 .edu_hed{
     padding-bottom: 3%;
@@ -462,11 +469,7 @@ a:hover{
     color: #fff;
     transform: translateY(-7px);
 }
-p{
-    text-align: justify;
-    font-family: 'Kaisei HarunoUmi', serif;
-    color: #40514E;
-}
+
 
 .CV{
     margin-top: 50px;
