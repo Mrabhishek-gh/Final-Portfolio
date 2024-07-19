@@ -20,7 +20,7 @@ h1{
 }
 
 .top_container{
-    background-color: #EAF6F6;
+    background-color: #d2f2f2;
     position: relative; 
     padding-top: 100px;
     padding-bottom: 510px; 
@@ -114,9 +114,8 @@ h1{
 }
 hr{
     border-style: dotted none none none;
-    background-color: #fbf9f9;
+    background-color: #EAF6F6;
     border-width: 8px;
-    height: 0px;
     width: 5%;
     margin-bottom: 60px;
     margin-top: 80px;
@@ -132,7 +131,7 @@ h3{
 
 
 .profile{
-    background-color: #fbf9f9;
+    background-color: #EAF6F6;
     position: relative; 
     padding-top: 5%;
 
@@ -280,8 +279,7 @@ a:hover{
     margin-right: auto;
 }
 .card-text{
-    font-family: 'Kaisei HarunoUmi', serif;
-    color: #40514E;
+
     text-align: justify;
 }
 .edu_hed{
@@ -543,4 +541,26 @@ td{
 }
 .down{
     padding-bottom: 4%;
+}
+
+
+.middle-2{
+
+    background-color: #EAF6F6;
+    padding: 20px; 
+    display: flex; 
+    gap: 20px;
+    justify-content: center;
+    padding-bottom: 3em;
+}
+
+.box {
+    flex-grow: 1;
+    background-color:  #ffffff; 
+    border: 1px solid;
+    padding: 10px; 
+    padding-bottom: 5em;
+    border-width: 5px; 
+    border-radius: 6px; 
+    border-color: #9dcee1;
 }
