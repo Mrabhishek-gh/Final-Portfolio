@@ -581,7 +581,11 @@ td{
     list-style-type: square; 
     padding-left: 20px; 
     padding-bottom: 5px;
-  }
+}
+
+.col{
+    padding-top: 2em;
+}
 
 
   @media (max-width: 768px) {
