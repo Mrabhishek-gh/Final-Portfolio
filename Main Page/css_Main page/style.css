@@ -170,12 +170,13 @@ p{
     margin-top: 20px;
     text-align: center;
     color: #40514E;
+}
 
-
-
-
-
-    
+h2{
+    color: #40514E;
+    font-size: 20px;
+    margin-top: 20px;
+    color: #40514E;
 }
 
 .contact{
@@ -543,19 +544,21 @@ td{
     padding-bottom: 4%;
 }
 
-
-.middle-2{
-
+.middle-2 {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin: 0 10px; 
+    gap: 20px;
+    padding-bottom: 3em;
     background-color: #EAF6F6;
     padding: 20px; 
-    display: flex; 
-    gap: 20px;
-    justify-content: center;
-    padding-bottom: 3em;
 }
 
 .box {
-    flex-grow: 1;
+    width: 50%; 
+    height: 33em; 
+    border: 1px solid #ccc; 
     background-color:  #ffffff; 
     border: 1px solid;
     padding: 10px; 
@@ -563,4 +566,33 @@ td{
     border-width: 5px; 
     border-radius: 6px; 
     border-color: #9dcee1;
+  }
+  
+
+.table{
+
+    text-align: left;
+    width: 48em;
+    margin: auto;
+    
+
 }
+.table ul {
+    list-style-type: square; 
+    padding-left: 20px; 
+    padding-bottom: 5px;
+  }
+
+
+  @media (max-width: 768px) {
+    .middle-2 {
+      flex-direction: column; 
+    }
+    .container {
+        flex-direction: column;
+    }
+    .col{
+        padding-top: 2em;
+    }
+
+  }
