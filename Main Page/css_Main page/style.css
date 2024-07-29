@@ -143,6 +143,7 @@ h3{
 
 .outro{
     font-size: 20px;
+    margin-bottom: -20px;
 }
 
 .skill-row{
@@ -174,10 +175,13 @@ p{
 
 h2{
     color: #40514E;
-    font-size: 20px;
+    font-size: 18px;
     margin-top: 20px;
-    color: #40514E;
 }
+li.bullet {
+    margin-left: 4em; 
+    list-style-position: outside; 
+  }
 
 .contact{
     width: 200px;
@@ -186,9 +190,7 @@ h2{
 .contact-me{
     background-color: #fbf9f9;
 }
-h2{
-    color:rgba(99, 98, 98, 0.513);
-}
+
 .hello{
     font-family: 'Montserrat', sans-serif;
     font-size: 60px;
@@ -415,7 +417,7 @@ a:hover{
     transition: all 0.3s ease 0s;
     cursor: pointer;
     outline: none;
-    margin-top: 10%;
+    margin-top: 40%;
     margin-bottom: 20%;
 
 }
@@ -471,7 +473,7 @@ a:hover{
 
 
 .CV{
-    margin-top: 50px;
+    margin-top: 20px;
     font-family: 'Bebas Neue', sans-serif;
     padding-bottom: 1em;
 }
@@ -493,7 +495,7 @@ a:hover{
     transition: all 0.3s ease 0s;
     cursor: pointer;
     outline: none;
-    margin-top: 1%;
+    margin-top: 15%;
     margin-bottom: 15%;
 }
 
